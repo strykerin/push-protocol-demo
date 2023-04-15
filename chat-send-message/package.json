@@ -1,5 +1,5 @@
 {
-  "name": "sending-notifs-sdk",
+  "name": "chat-send-message",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@pushprotocol/restapi": "0.7.5",
+    "@pushprotocol/restapi": "1.2.2",
     "dotenv": "^16.0.3",
     "ethers": "^5.7.2"
   },
   "devDependencies": {
-    "@types/node": "^18.11.9"
+    "@types/node": "^18.14.2"
   }
 }
